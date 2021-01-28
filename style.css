@@ -2,10 +2,22 @@ body {
   background-color: #000000;
   border: 3px solid #00ffff;
   font-family: Helvetica;
-  color: #ffffff;
+  color: gold;
 }
 
 h1 {
   color: #ffffff;
   text-align: center;
+}
+
+#taulukko{
+  background-color: #990077
+}
+
+#temp{
+  background-color: #990077
+}
+
+#humidity{
+  background-color: #990077
 }
